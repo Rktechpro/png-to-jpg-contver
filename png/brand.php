@@ -1,0 +1,3 @@
+<?php
+	$domainName = "rkresize.com";
+?>
